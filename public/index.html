@@ -14,14 +14,6 @@
         <div class="brand-sub" data-i18n="brand.sub">Prices &amp; guides</div>
       </div>
       <nav class="nav">
-        <button class="nav-btn is-active" data-section="warframe-pricing">
-          <span class="nav-label" data-i18n="nav.warframe.label">Warframe Pricing</span>
-          <span class="nav-sub" data-i18n="nav.warframe.sub">Prime sets &amp; parts</span>
-        </button>
-        <button class="nav-btn" data-section="weapon-pricing">
-          <span class="nav-label" data-i18n="nav.weapon.label">Weapon Pricing</span>
-          <span class="nav-sub" data-i18n="nav.weapon.sub">Prime weapons</span>
-        </button>
         <div class="nav-group" data-i18n="nav.tutorials">Tutorials</div>
         <button class="nav-btn" data-section="gameplay-tutorials">
           <span class="nav-label" data-i18n="nav.gameplay.label">Gameplay</span>
@@ -40,35 +32,9 @@
           <span class="nav-sub" data-i18n="nav.materials.sub">Resource grinds</span>
         </button>
       </nav>
-      <div id="status" class="status">Loading...</div>
     </aside>
 
     <main class="content">
-
-      <!-- ============ Warframe Pricing ============ -->
-      <section class="section is-active" id="section-warframe-pricing">
-        <div class="section-header">
-          <h2 data-i18n="section.warframe.title">Warframe Pricing</h2>
-          <div class="section-sub" data-i18n="section.warframe.sub">Live cheapest sellers per Prime Warframe set &amp; parts. Click a Warframe to see details on the right.</div>
-        </div>
-        <div id="layout" class="layout">
-          <div id="grid" class="grid"></div>
-          <aside id="detail" class="detail" hidden></aside>
-        </div>
-      </section>
-
-      <!-- ============ Weapon Pricing ============ -->
-      <section class="section" id="section-weapon-pricing" hidden>
-        <div class="section-header">
-          <h2 data-i18n="section.weapon.title">Weapon Pricing</h2>
-          <div class="section-sub" data-i18n="section.weapon.sub">Prime weapons market tracker.</div>
-        </div>
-        <div class="placeholder">
-          <h3 data-i18n="weapon.placeholder.title">Coming soon</h3>
-          <p data-i18n="weapon.placeholder.body">This section will use the same live-pricing UI as Warframes, but for Prime weapons (primary, secondary, melee, archwing). The backend will need a second item filter — prime + weapon tags from warframe.market — and the refresh cycle will lengthen to roughly 3 minutes for full coverage.</p>
-          <p class="placeholder-note">Files for this section live in <code>public/sections/weapon-pricing/</code>.</p>
-        </div>
-      </section>
 
       <!-- ============ Gameplay Tutorials ============ -->
       <section class="section" id="section-gameplay-tutorials" hidden>
