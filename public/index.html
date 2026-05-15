@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>WarframeTracker</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <div class="brand">
+        <h1 data-i18n="brand.title">WarframeTracker</h1>
+        <div class="brand-sub" data-i18n="brand.sub">Prices &amp; guides</div>
+      </div>
+      <nav class="nav">
+        <button class="nav-btn is-active" data-section="warframe-pricing">
+          <span class="nav-label" data-i18n="nav.warframe.label">Warframe Pricing</span>
+          <span class="nav-sub" data-i18n="nav.warframe.sub">Prime sets &amp; parts</span>
+        </button>
+        <button class="nav-btn" data-section="weapon-pricing">
+          <span class="nav-label" data-i18n="nav.weapon.label">Weapon Pricing</span>
+          <span class="nav-sub" data-i18n="nav.weapon.sub">Prime weapons</span>
+        </button>
+        <div class="nav-group" data-i18n="nav.tutorials">Tutorials</div>
+        <button class="nav-btn" data-section="gameplay-tutorials">
+          <span class="nav-label" data-i18n="nav.gameplay.label">Gameplay</span>
+          <span class="nav-sub" data-i18n="nav.gameplay.sub">Missions &amp; modes</span>
+        </button>
+        <button class="nav-btn" data-section="vanilla-weapons-tutorials">
+          <span class="nav-label" data-i18n="nav.vweapons.label">Vanilla Weapons</span>
+          <span class="nav-sub" data-i18n="nav.vweapons.sub">Non-Prime weapons</span>
+        </button>
+        <button class="nav-btn" data-section="vanilla-warframes-tutorials">
+          <span class="nav-label" data-i18n="nav.vwarframes.label">Vanilla Warframes</span>
+          <span class="nav-sub" data-i18n="nav.vwarframes.sub">Non-Prime frames</span>
+        </button>
+        <button class="nav-btn" data-section="material-farming-tutorials">
+          <span class="nav-label" data-i18n="nav.materials.label">Material Farming</span>
+          <span class="nav-sub" data-i18n="nav.materials.sub">Resource grinds</span>
+        </button>
+      </nav>
+      <div id="status" class="status">Loading...</div>
+    </aside>
+
+    <main class="content">
+
+      <!-- ============ Warframe Pricing ============ -->
+      <section class="section is-active" id="section-warframe-pricing">
+        <div class="section-header">
+          <h2 data-i18n="section.warframe.title">Warframe Pricing</h2>
+          <div class="section-sub" data-i18n="section.warframe.sub">Live cheapest sellers per Prime Warframe set &amp; parts. Click a Warframe to see details on the right.</div>
+        </div>
+        <div id="layout" class="layout">
+          <div id="grid" class="grid"></div>
+          <aside id="detail" class="detail" hidden></aside>
+        </div>
+      </section>
+
+      <!-- ============ Weapon Pricing ============ -->
+      <section class="section" id="section-weapon-pricing" hidden>
+        <div class="section-header">
+          <h2 data-i18n="section.weapon.title">Weapon Pricing</h2>
+          <div class="section-sub" data-i18n="section.weapon.sub">Prime weapons market tracker.</div>
+        </div>
+        <div class="placeholder">
+          <h3 data-i18n="weapon.placeholder.title">Coming soon</h3>
+          <p data-i18n="weapon.placeholder.body">This section will use the same live-pricing UI as Warframes, but for Prime weapons (primary, secondary, melee, archwing). The backend will need a second item filter — prime + weapon tags from warframe.market — and the refresh cycle will lengthen to roughly 3 minutes for full coverage.</p>
+          <p class="placeholder-note">Files for this section live in <code>public/sections/weapon-pricing/</code>.</p>
+        </div>
+      </section>
+
+      <!-- ============ Gameplay Tutorials ============ -->
+      <section class="section" id="section-gameplay-tutorials" hidden>
+        <div class="section-header">
+          <h2 data-i18n="section.gameplay.title">Gameplay Tutorials</h2>
+          <div class="section-sub" data-i18n="section.gameplay.sub">Guides for missions, modes, mechanics and everything that isn't gear-specific.</div>
+        </div>
+        <div class="placeholder placeholder--mini" data-i18n="section.gameplay.placeholder">
+          Add tutorials in public/sections/gameplay-tutorials/.
+        </div>
+      </section>
+
+      <!-- ============ Vanilla Weapons Tutorials ============ -->
+      <section class="section" id="section-vanilla-weapons-tutorials" hidden>
+        <div class="section-header">
+          <h2 data-i18n="section.vweapons.title">Vanilla Weapons Tutorials</h2>
+          <div class="section-sub" data-i18n="section.vweapons.sub">Build guides, MR fodder lists and recommendations for non-Prime weapons.</div>
+        </div>
+        <div class="placeholder placeholder--mini" data-i18n="section.vweapons.placeholder">
+          Add tutorials in public/sections/vanilla-weapons-tutorials/.
+        </div>
+      </section>
+
+      <!-- ============ Vanilla Warframes Tutorials ============ -->
+      <section class="section" id="section-vanilla-warframes-tutorials" hidden>
+        <div class="section-header">
+          <h2 data-i18n="section.vwarframes.title">Vanilla Warframes</h2>
+          <div class="section-sub" data-i18n="section.vwarframes.sub">How to obtain each non-Prime Warframe.</div>
+        </div>
+        <div id="vwf-content">
+          <div class="empty" data-i18n="vwf.loading">Loading warframe data…</div>
+        </div>
+      </section>
+
+      <!-- ============ Material Farming Tutorials ============ -->
+      <section class="section" id="section-material-farming-tutorials" hidden>
+        <div class="section-header">
+          <h2 data-i18n="section.materials.title">Material Farming</h2>
+          <div class="section-sub" data-i18n="section.materials.sub">Where and how to farm each crafting resource efficiently.</div>
+        </div>
+        <div id="mf-content">
+          <div class="empty" data-i18n="materials.loading">Loading farming guide…</div>
+        </div>
+      </section>
+
+    </main>
+  </div>
+
+  <button id="lang-toggle" class="lang-toggle" type="button" title="Switch language / 切换语言">中文</button>
+
+  <div id="toast" class="toast" hidden></div>
+  <script src="app.js"></script>
+</body>
+</html>

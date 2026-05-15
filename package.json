@@ -1,0 +1,12 @@
+{
+  "name": "warframe-tracker",
+  "version": "1.0.0",
+  "description": "Real-time tracker of Prime Warframe market prices on warframe.market",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

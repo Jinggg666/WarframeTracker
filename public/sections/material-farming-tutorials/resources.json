@@ -1,0 +1,304 @@
+{
+  "source": {
+    "url": "https://warframe.huijiwiki.com/wiki/%E8%B5%84%E6%BA%90",
+    "name": "非官方WARFRAME中文维基 — 资源",
+    "license": "CC BY-NC-SA 3.0",
+    "fetched": "2026-05-14",
+    "note": "中文资源名称与节点名参考自灰机wiki（warframe.huijiwiki.com），图片资源来自官方英文wiki（wiki.warframe.com）。原作者保留版权。"
+  },
+  "imageBase": "https://wiki.warframe.com/w/Special:FilePath/",
+
+  "generalTips": [
+    { "title": "Nekros — Desecrate", "titleZh": "Nekros — 亵渎",
+      "body": "Fixed 54% chance for enemies killed in a wide radius to drop additional loot. Mod for Ability Range and Efficiency. The Despoil augment makes it self-sustaining (uses health instead of energy).",
+      "bodyZh": "杀死范围内的敌人有固定54%几率掉落额外战利品。配持续和范围模组。配掠夺者MOD后用血代替能量，可以无限释放。" },
+    { "title": "Hydroid — Pilfering Swarm", "titleZh": "Hydroid — 掠夺触手群",
+      "body": "Doubles drop chances for enemies ensnared by Tentacle Swarm. Strongest single effect, but harder to land efficiently.",
+      "bodyZh": "被触手群困住的敌人掉落几率翻倍。单一效果最强，但效率较低。" },
+    { "title": "Khora — Pilfering Strangledome", "titleZh": "Khora — 掠夺锁喉天罗",
+      "body": "65% chance for ensnared enemies to drop additional loot. Stacks with Nekros' Desecrate for huge synergy.",
+      "bodyZh": "被困住的敌人有65%几率掉落额外战利品。与Nekros亵渎叠加效果极强。" },
+    { "title": "Ivara — Prowl", "titleZh": "Ivara — 潜行",
+      "body": "Passively 'pickpockets' one random item per enemy. Use when focused-farming a specific drop.",
+      "bodyZh": "被动从每个敌人偷一件随机物品。专注刷某种特定掉落物时使用。" },
+    { "title": "Vacuum / Fetch", "titleZh": "真空吸取 / 拾取",
+      "body": "Sentinel mod (Vacuum, 6.5m) or pet mod (Fetch, 8.5m) auto-collects loot. Always equip one.",
+      "bodyZh": "守护模组（真空吸取，6.5米）或宠物模组（拾取，8.5米）自动收集战利品。务必装备一个。" },
+    { "title": "Thief's Wit / Master Thief / Scavenge", "titleZh": "盗贼直觉 / 神偷 / 拾荒",
+      "body": "Thief's Wit reveals breakable crates on the minimap. Master Thief opens locked lockers (40%). Kubrow Scavenge mod opens 90%.",
+      "bodyZh": "盗贼直觉在小地图显示可破坏的容器。神偷40%几率开启锁柜。Kubrow拾荒模组开锁率90%。" },
+    { "title": "Break everything", "titleZh": "破坏一切",
+      "body": "Crates and containers drop resources. Use AoE weapons (Ignis, Bramma, Tonkor) to clear them quickly. Always explore secondary floors and side rooms.",
+      "bodyZh": "箱子和容器都会掉资源。使用AoE武器（Ignis、Bramma、Tonkor）快速清除。务必探索二层和侧房间。" },
+    { "title": "Resource boosters", "titleZh": "资源加成",
+      "body": "Daily login boosters double resource drop chance, and stack with squad-mate boosters and Dark Sector bonuses.",
+      "bodyZh": "登录奖励加成可让资源掉率翻倍，且能与队友加成、暗扇区加成叠加。" },
+    { "title": "Dark Sector missions", "titleZh": "暗扇区任务",
+      "body": "All Dark Sector nodes have an additional resource drop-rate bonus that varies per mission. Always prefer the Dark Sector node when one exists for your target resource.",
+      "bodyZh": "所有暗扇区节点都有额外的资源掉率加成（每个任务不同）。目标资源若有暗扇区节点，优先选它。" }
+  ],
+
+  "squadComposition": {
+    "title": "Classic Resource Farm Squad",
+    "titleZh": "经典刷材料小队",
+    "body": "Nova (hold Molecular Prime to speed enemies up instead of slowing — clears the map faster) + Nekros (Desecrate, ideally with Despoil) + Hydroid (Pilfering Swarm) or Khora (Pilfering Strangledome) + Trinity (Energy Vampire so the other frames can keep recasting). Modern alternative: replace Trinity with Wisp for damage buffs or Octavia for AoE clear.",
+    "bodyZh": "Nova（长按分子裂解加速敌人，更快清图）+ Nekros（亵渎，配掠夺者）+ Hydroid（掠夺触手群）或 Khora（掠夺锁喉天罗）+ Trinity（能量吸取让其他战甲不断释放技能）。现代替代：Trinity换成Wisp增伤或Octavia用于AoE清场。"
+  },
+
+  "resources": [
+    { "name": "Alloy Plate", "nameZh": "合金板", "image": "AlloyPlate.png",
+      "rarity": "Common", "missionType": "Defense (Infested preferred)", "missionTypeZh": "防御（Infested优先）",
+      "bestNodes": ["Gabii (Ceres) — Dark Sector Defense", "Draco (Ceres)", "Malva (Venus)"],
+      "bestNodesZh": ["Gabii（谷神星）— 暗扇区防御", "Draco（谷神星）", "Malva（金星）"],
+      "tips": "Infested Dark Sectors have higher spawn rates → more drops. Bring Nekros.",
+      "tipsZh": "Infested 暗扇区生成率高 → 掉落更多。带 Nekros。" },
+
+    { "name": "Ferrite", "nameZh": "铁素体", "image": "Ferrite.png",
+      "rarity": "Common", "missionType": "Survival / Defense", "missionTypeZh": "生存 / 防御",
+      "bestNodes": ["Any Void Survival/Defense", "Tikal (Earth) — Dark Sector Defense", "Apollodorus (Mercury)"],
+      "bestNodesZh": ["任意虚空生存/防御", "Tikal（地球）— 暗扇区防御", "Apollodorus（水星）"],
+      "tips": "Void missions drop multiple resource types — efficient. Apollodorus is the easiest early-game source.",
+      "tipsZh": "虚空任务掉多种资源 — 很高效。Apollodorus 是新手最简单的来源。" },
+
+    { "name": "Nano Spores", "nameZh": "纳米孢子", "image": "NanoSpores.png",
+      "rarity": "Common", "missionType": "Defense / Survival", "missionTypeZh": "防御 / 生存",
+      "bestNodes": ["Hyf (Deimos) — Dark Sector Defense", "Terrorem (Deimos)", "Cambion Drift", "Akkad (Eris)", "Piscinas (Saturn) — Dark Sector Survival"],
+      "bestNodesZh": ["Hyf（火卫二）— 暗扇区防御", "Terrorem（火卫二）", "胚化漂流地", "Akkad（阋神星）", "Piscinas（土星）— 暗扇区生存"],
+      "tips": "Deimos Infested missions have the densest spawns. Nekros + Hydroid is the classic combo here.",
+      "tipsZh": "Deimos 的 Infested 任务出怪最密。Nekros + Hydroid 是经典组合。" },
+
+    { "name": "Salvage", "nameZh": "残骸", "image": "Salvage.png",
+      "rarity": "Common", "missionType": "Defense / Survival", "missionTypeZh": "防御 / 生存",
+      "bestNodes": ["Cameria (Jupiter) — Dark Sector Survival", "Wahiba (Mars)"],
+      "bestNodesZh": ["Cameria（木星）— 暗扇区生存", "Wahiba（火星）"],
+      "tips": "Jupiter Corpus nodes drop lots of containers — break everything.",
+      "tipsZh": "木星 Corpus 节点容器多 — 破坏一切。" },
+
+    { "name": "Circuits", "nameZh": "电路", "image": "Circuits.png",
+      "rarity": "Uncommon", "missionType": "Defense", "missionTypeZh": "防御",
+      "bestNodes": ["Draco (Ceres)", "Malva (Venus)"],
+      "bestNodesZh": ["Draco（谷神星）", "Malva（金星）"],
+      "tips": "Corpus-controlled nodes are the most reliable source.",
+      "tipsZh": "Corpus 控制的节点最稳定。" },
+
+    { "name": "Cryotic", "nameZh": "冰冻原素", "image": "Cryotic.png",
+      "rarity": "Uncommon", "missionType": "Excavation (only)", "missionTypeZh": "挖掘（唯一）",
+      "bestNodes": ["Any Excavation mission"],
+      "bestNodesZh": ["任意挖掘任务"],
+      "tips": "Cryotic ONLY drops from Excavators. Extended runs (4+ excavators alive at once) maximize per-minute yield. Pair with a resource booster.",
+      "tipsZh": "冰冻原素只从挖掘机掉落。长时间挖掘（同时维持4台以上挖掘机）效率最高。配资源加成更佳。" },
+
+    { "name": "Hexenon", "nameZh": "哈克侬", "image": "Hexenon.png",
+      "rarity": "Uncommon", "missionType": "Survival / Defense", "missionTypeZh": "生存 / 防御",
+      "bestNodes": ["Ganymede (Jupiter)", "Cameria (Jupiter)"],
+      "bestNodesZh": ["Ganymede（木星）", "Cameria（木星）"],
+      "tips": "Drops from Amalgam units on Jupiter Corpus tilesets.",
+      "tipsZh": "从木星 Corpus 地图的 Amalgam 单位身上掉落。" },
+
+    { "name": "Oxium", "nameZh": "奥席金属", "image": "Oxium.png",
+      "rarity": "Uncommon", "missionType": "Any Corpus mission", "missionTypeZh": "任意 Corpus 任务",
+      "bestNodes": ["Galatea (Neptune) — Corpus Interception", "Io (Jupiter) — Defense", "Any Corpus Survival"],
+      "bestNodesZh": ["Galatea（海王星）— 拦截", "Io（木星）— 防御", "任意 Corpus 生存"],
+      "tips": "Dropped exclusively by Oxium Ospreys (the round floating Corpus drones). Kill them quickly before they dive-bomb — use finishers or slash procs for clean kills. Corpus Defense/Survival missions spawn the most Ospreys.",
+      "tipsZh": "仅由奥席金属侦查蜂（圆形的Corpus飞行无人机）掉落。在其俯冲冲刺前快速击杀——用处决动作或穿刺效果可确保干净击杀。Corpus防御/生存任务侦查蜂出现率最高。" },
+
+    { "name": "Plastids", "nameZh": "塑钢", "image": "Plastids.png",
+      "rarity": "Uncommon", "missionType": "Defense", "missionTypeZh": "防御",
+      "bestNodes": ["Zeugma (Phobos)", "Ophelia (Uranus)", "Assur (Uranus)", "Zabala (Eris) — Dark Sector"],
+      "bestNodesZh": ["Zeugma（火卫一）", "Ophelia（天王星）", "Assur（天王星）", "Zabala（阋神星）— 暗扇区"],
+      "tips": "Uranus nodes also drop rare Tellurium / Gallium on the side.",
+      "tipsZh": "天王星节点同时还能附带稀有的碲 / 镓。" },
+
+    { "name": "Polymer Bundle", "nameZh": "聚合物束", "image": "PolymerBundle.png",
+      "rarity": "Uncommon", "missionType": "Defense", "missionTypeZh": "防御",
+      "bestNodes": ["Assur (Uranus)", "Ophelia (Uranus)", "Apollodorus (Mercury)"],
+      "bestNodesZh": ["Assur（天王星）", "Ophelia（天王星）", "Apollodorus（水星）"],
+      "tips": "Same Uranus runs that farm Plastids also give Polymer Bundle.",
+      "tipsZh": "刷塑钢的天王星任务同时也给聚合物束。" },
+
+    { "name": "Rubedo", "nameZh": "红化结晶", "image": "Rubedo.png",
+      "rarity": "Uncommon", "missionType": "Survival / Defense", "missionTypeZh": "生存 / 防御",
+      "bestNodes": ["Any Void Survival/Defense", "Zeugma (Phobos)"],
+      "bestNodesZh": ["任意虚空生存/防御", "Zeugma（火卫一）"],
+      "tips": "Void missions provide consistent high-volume drops alongside Argon Crystals.",
+      "tipsZh": "虚空任务稳定大量掉落，同时还附带氩结晶。" },
+
+    { "name": "Voidgel Orb", "nameZh": "虚空凝胶球", "image": "VoidgelOrb.png",
+      "rarity": "Uncommon", "missionType": "Zariman missions", "missionTypeZh": "扎里曼任务",
+      "bestNodes": ["Zariman Ten Zero (any node)"],
+      "bestNodesZh": ["扎里曼零号（任意节点）"],
+      "tips": "Zariman-exclusive. Drops from Void Angels and Thrax units.",
+      "tipsZh": "扎里曼专属。从虚空天使和 Thrax 单位掉落。" },
+
+    { "name": "Argon Crystal", "nameZh": "氩结晶", "image": "ArgonCrystal.png",
+      "rarity": "Rare", "missionType": "Survival / Exterminate (Void)", "missionTypeZh": "生存 / 歼灭（虚空）",
+      "bestNodes": ["Any Void Survival or Exterminate"],
+      "bestNodesZh": ["任意虚空生存或歼灭"],
+      "tips": "Void-exclusive. Crystals decay 24h after pickup, so farm just before you need them. Combine with Rubedo + Ferrite farming.",
+      "tipsZh": "虚空专属。拾取后24小时衰减消失，所以在需要前刷。可同时刷红化结晶和铁素体。" },
+
+    { "name": "Control Module", "nameZh": "控制模块", "image": "ControlModule.png",
+      "rarity": "Rare", "missionType": "Survival / Defense / Assassination", "missionTypeZh": "生存 / 防御 / 暗杀",
+      "bestNodes": ["Any Void Survival/Defense", "Psamathe (Neptune) — Hyena Pack", "Naamah (Europa) — Raptors"],
+      "bestNodesZh": ["任意虚空生存/防御", "Psamathe（海王星）— 鬣狗群", "Naamah（欧罗巴）— 猛禽"],
+      "tips": "Boss assassinations have a guaranteed drop. Hyena Pack boss is fast to kill.",
+      "tipsZh": "BOSS暗杀任务保证掉落。鬣狗群 BOSS 速杀。" },
+
+    { "name": "Gallium", "nameZh": "镓", "image": "Gallium.png",
+      "rarity": "Rare", "missionType": "Defense / Assassination", "missionTypeZh": "防御 / 暗杀",
+      "bestNodes": ["Assur (Uranus)", "War (Mars) — Lieutenant Lech Kril"],
+      "bestNodesZh": ["Assur（天王星）", "War（火星）— 勒奇·克里尔中尉"],
+      "tips": "Lech Kril guarantees Gallium. Assur defense gives chance drops alongside Plastids.",
+      "tipsZh": "勒奇·克里尔中尉保证掉镓。Assur 防御附带塑钢一起出。" },
+
+    { "name": "Morphics", "nameZh": "晶素", "image": "Morphics.png",
+      "rarity": "Rare", "missionType": "Defense / Assassination", "missionTypeZh": "防御 / 暗杀",
+      "bestNodes": ["Wahiba (Mars)", "Tolstoj (Mercury) — Captain Vor", "Apollodorus (Mercury)"],
+      "bestNodesZh": ["Wahiba（火星）", "Tolstoj（水星）— 沃尔队长", "Apollodorus（水星）"],
+      "tips": "Captain Vor is fast and guaranteed. Apollodorus is the best AFK-style farm early.",
+      "tipsZh": "沃尔队长速杀且保证掉。新手期 Apollodorus 是最佳挂机刷法。" },
+
+    { "name": "Neural Sensors", "nameZh": "神经传感器", "image": "NeuralSensors.png",
+      "rarity": "Rare", "missionType": "Defense / Assassination", "missionTypeZh": "防御 / 暗杀",
+      "bestNodes": ["Cameria (Jupiter)", "Themisto (Jupiter) — Alad V", "Naamah (Europa) — Raptors"],
+      "bestNodesZh": ["Cameria（木星）", "Themisto（木星）— 阿拉德 V", "Naamah（欧罗巴）— 猛禽"],
+      "tips": "Alad V boss fight is the most reliable source — quick kill, guaranteed Neural Sensor.",
+      "tipsZh": "阿拉德 V BOSS战是最稳定的来源 — 速杀，保证掉神经传感器。" },
+
+    { "name": "Neurodes", "nameZh": "神经元", "image": "Neurodes.png",
+      "rarity": "Rare", "missionType": "Defense / Survival / Assassination", "missionTypeZh": "防御 / 生存 / 暗杀",
+      "bestNodes": ["Tycho (Lua)", "Hyf (Deimos)", "Terrorem (Deimos)", "Magnacidium (Deimos) — Lephantis", "Zabala (Eris)"],
+      "bestNodesZh": ["Tycho（月球）", "Hyf（火卫二）", "Terrorem（火卫二）", "Magnacidium（火卫二）— 勒芬提斯", "Zabala（阋神星）"],
+      "tips": "Lephantis guarantees Neurodes. Deimos Infested missions are great for Nekros farming runs.",
+      "tipsZh": "勒芬提斯保证掉神经元。火卫二 Infested 任务是 Nekros 刷怪的好去处。" },
+
+    { "name": "Orokin Cell", "nameZh": "Orokin电池", "image": "OrokinCell.png",
+      "rarity": "Rare", "missionType": "Defense / Survival", "missionTypeZh": "防御 / 生存",
+      "bestNodes": ["Terrorem (Deimos)", "Draco (Ceres)", "Piscinas (Saturn) — Dark Sector"],
+      "bestNodesZh": ["Terrorem（火卫二）", "Draco（谷神星）", "Piscinas（土星）— 暗扇区"],
+      "tips": "Saturn Dark Sector Piscinas is the classic OC farm. Infested = more spawns.",
+      "tipsZh": "土星暗扇区 Piscinas 是经典的 Orokin 电池刷法。Infested = 出怪更多。" },
+
+    { "name": "Tellurium", "nameZh": "碲", "image": "Tellurium.png",
+      "rarity": "Rare", "missionType": "Defense / Archwing", "missionTypeZh": "防御 / 飞翼",
+      "bestNodes": ["Ophelia (Uranus)", "Caelus (Uranus) — Archwing", "Salacia (Neptune) — Archwing"],
+      "bestNodesZh": ["Ophelia（天王星）", "Caelus（天王星）— 飞翼任务", "Salacia（海王星）— 飞翼任务"],
+      "tips": "Uranus-exclusive on ground. Also a rare global Archwing drop on Caelus/Salacia.",
+      "tipsZh": "地面战只在天王星掉落。Caelus/Salacia 的飞翼任务也是稀有全局掉落。" },
+
+    { "name": "Entrati Lanthorn", "nameZh": "恩特拉提之灯", "image": "EntratiLanthorn.png",
+      "rarity": "Rare", "missionType": "Bounties / Isolation Vaults", "missionTypeZh": "悬赏 / 隔离储藏",
+      "bestNodes": ["Deimos — Isolation Vaults (Necramech bounties)"],
+      "bestNodesZh": ["火卫二 — 隔离储藏（Necramech悬赏）"],
+      "tips": "Reward from Mother bounties and Iso Vault tiers. Needed for Necramech research.",
+      "tipsZh": "Mother 悬赏和隔离储藏的奖励。研究Necramech必需。" },
+
+    { "name": "Detonite Ampule", "nameZh": "引爆瓶", "image": "DetoniteAmpule.png",
+      "rarity": "Research", "missionType": "Grineer planets", "missionTypeZh": "Grineer 星球",
+      "bestNodes": ["Most Grineer nodes (Mercury → Sedna)"],
+      "bestNodesZh": ["大多数 Grineer 节点（水星 → 赛德娜）"],
+      "tips": "Used in Detonite Injector (clan research). Farm passively while doing other Grineer missions.",
+      "tipsZh": "用于氏族研究的引爆器。做其他Grineer任务时顺便刷。" },
+
+    { "name": "Fieldron Sample", "nameZh": "力场样本", "image": "FieldronSample.png",
+      "rarity": "Research", "missionType": "Corpus planets", "missionTypeZh": "Corpus 星球",
+      "bestNodes": ["Most Corpus nodes"],
+      "bestNodesZh": ["大多数 Corpus 节点"],
+      "tips": "Used in Fieldron. Drops from Corpus enemies.",
+      "tipsZh": "用于力场。从Corpus敌人身上掉落。" },
+
+    { "name": "Mutagen Sample", "nameZh": "诱变剂样本", "image": "MutagenSample.png",
+      "rarity": "Research", "missionType": "Infested missions", "missionTypeZh": "Infested 任务",
+      "bestNodes": ["Eris", "Deimos", "Infested invasions"],
+      "bestNodesZh": ["阋神星", "火卫二", "Infested 入侵"],
+      "tips": "Used in Mutagen Mass. Eris is dense with Infested for fast farming.",
+      "tipsZh": "用于诱变质块。阋神星的 Infested 密度高，刷得快。" }
+  ],
+
+  "openWorld": [
+    { "region": "Plains of Eidolon (Earth — Cetus)", "regionZh": "夜灵平野（地球 — 希图斯）",
+      "ores": [
+        { "name": "Auron", "image": "Auron.png" },
+        { "name": "Coprun", "image": "Coprun.png" },
+        { "name": "Ferros", "image": "Ferros.png" },
+        { "name": "Pyrol", "image": "Pyrol.png" }
+      ],
+      "gems": [
+        { "name": "Azurite", "image": "Azurite.png" },
+        { "name": "Crimzian", "image": "Crimzian.png" },
+        { "name": "Devar", "image": "Devar.png" },
+        { "name": "Nyth", "image": "Nyth.png" },
+        { "name": "Sentirum", "image": "Sentirum.png" },
+        { "name": "Veridos", "image": "Veridos.png" }
+      ],
+      "tips": "Use a Mining Laser (Sunpoint, Advanced Nosam Cutter, etc). Higher-tier cutters reveal rarer veins. Day cycle has different ore distribution than night. Refine raw ore at Old Man Suumbaat in Cetus.",
+      "tipsZh": "用采矿激光（日尖、高级Nosam切割器等）。高级切割器能挖到更稀有的矿。日夜循环矿点分布不同。在希图斯 Old Man Suumbaat 处精炼原矿。" },
+
+    { "region": "Orb Vallis (Venus — Fortuna)", "regionZh": "奥布山谷（金星 — 福尔图娜）",
+      "ores": [
+        { "name": "Axidite", "image": "Axidite.png" },
+        { "name": "Hesperon", "image": "Hesperon.png" },
+        { "name": "Travoride", "image": "Travoride.png" },
+        { "name": "Venerol", "image": "Venerol.png" }
+      ],
+      "gems": [
+        { "name": "Amarast", "image": "Amarast.png" },
+        { "name": "Goblite", "image": "Goblite.png" },
+        { "name": "Noctrul", "image": "Noctrul.png" },
+        { "name": "Phasmin", "image": "Phasmin.png" },
+        { "name": "Thyst", "image": "Thyst.png" },
+        { "name": "Zodian", "image": "Zodian.png" }
+      ],
+      "tips": "Cold cycle vs. Warm cycle changes spawn rates. Best mining is in Temple of Profit and Spaceport regions. Use Smoot's Cutter for the best results.",
+      "tipsZh": "冷热循环影响出货率。利润神殿和太空港区域最适合采矿。用 Smoot 的切割器效果最佳。" },
+
+    { "region": "Cambion Drift (Deimos — Necralisk)", "regionZh": "胚化漂流地（火卫二 — 死灵堡）",
+      "ores": [
+        { "name": "Tempered Bapholite", "image": "TemperedBapholite.png" },
+        { "name": "Phestoor", "image": "Phestoor.png" },
+        { "name": "Saturated Heciphron", "image": "SaturatedHeciphron.png" },
+        { "name": "Embattled Thaumica", "image": "EmbattledThaumica.png" }
+      ],
+      "gems": [
+        { "name": "Ueymag", "image": "Ueymag.png" },
+        { "name": "Xenorhexite", "image": "Xenorhexite.png" },
+        { "name": "Thaumic Distillate", "image": "ThaumicDistillate.png" }
+      ],
+      "tips": "Mining nodes alternate with the Fass/Vome cycle. Some gems only spawn during Fass, others during Vome. Track the cycle via the Necralisk eye in the sky.",
+      "tipsZh": "矿点随 Fass/Vome 循环切换。某些宝石只在 Fass 出，另一些在 Vome 出。通过死灵堡天空的眼睛判断循环。" },
+
+    { "region": "Duviri Paradox", "regionZh": "杜薇莉悖论",
+      "extras": [
+        { "name": "Pathos Clamps", "image": "PathosClamps.png" },
+        { "name": "Lucent Teroglobe", "image": "LucentTeroglobe.png" },
+        { "name": "Pustulite", "image": "Pustulite.png" },
+        { "name": "Ganglion", "image": "Ganglion.png" }
+      ],
+      "tips": "Duviri-exclusive resources. Most drop from Duviri-side activities (Orowyrm, undercroft). Spirals (Joy/Anger/Envy/Fear/Sorrow) gate certain rewards.",
+      "tipsZh": "杜薇莉专属资源。大部分从杜薇莉活动（Orowyrm、地窖）掉落。情绪螺旋（喜/怒/嫉/恐/悲）决定特定奖励。" }
+  ],
+
+  "empyrean": {
+    "note": "Railjack space-mode resources — drop from destroyed Crewships, Fighters, asteroid wreckage, and missions in Earth/Saturn/Veil/Pluto proximas.",
+    "noteZh": "虚空领航器空间模式资源 — 从船员舰、战机、陨石残骸和地球/土星/帷幕/冥王星近域任务掉落。",
+    "tiers": {
+      "Common": [
+        { "name": "Carbides", "image": "Carbides.png" },
+        { "name": "Cubic Diodes", "image": "CubicDiodes.png" },
+        { "name": "Titanium", "image": "Titanium.png" },
+        { "name": "Ticor Plate", "image": "TicorPlate.png" }
+      ],
+      "Uncommon": [
+        { "name": "Asterite", "image": "Asterite.png" },
+        { "name": "Gallos Rods", "image": "GallosRods.png" },
+        { "name": "Isos", "image": "Isos.png" }
+      ],
+      "Rare": [
+        { "name": "Aucrux Capacitors", "image": "AucruxCapacitors.png" },
+        { "name": "Komms", "image": "Komms.png" },
+        { "name": "Nullstones", "image": "Nullstones.png" },
+        { "name": "Tellurium", "image": "Tellurium.png" }
+      ]
+    }
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "Ash Prime": {
+    "en": "A stealth assassin who instantly eliminates multiple targets with Bladestorm. Pairs invisibility with lethal burst damage.",
+    "zh": "顶级刺客输出战甲，隐身偷袭配合苦刃大招可瞬间清除精英/Boss，适合高强度单点作业。"
+  },
+  "Atlas Prime": {
+    "en": "A stone-fisted brawler who hits hard and is nearly impossible to knock down. Summons rock golems to fight alongside him.",
+    "zh": "近战坦克型战甲，以拳头击碎敌人并召唤石块造物，岩石之躯使其极难被击倒。"
+  },
+  "Banshee Prime": {
+    "en": "A weapon amplification platform — Sonar exposes enemy weak spots for massive damage multipliers across the whole squad.",
+    "zh": "顶级武器增益平台，声波技能暴露敌人弱点可大幅提升全队武器伤害，适合配合强力武器使用。"
+  },
+  "Baruuk Prime": {
+    "en": "A pacifist brawler who builds up restraint and unleashes it as a devastating Desert Wind. More enemies means faster charge.",
+    "zh": "高防近战地图炮，积累克制值后4技能沙漠风暴可多属性范围清场，敌人越多爆发越快。"
+  },
+  "Caliban Prime": {
+    "en": "A Sentient hybrid who controls crowds and applies radiation, decent for mid-range AoE clearing.",
+    "zh": "哨兵系战甲，融合Sentient能力可控场并提供辐射状态，适合中低难度范围清图。"
+  },
+  "Chroma Prime": {
+    "en": "A top-tier damage and armor buffer. His specter can permanently hold Vex Armor buffs, making him a go-to for boss farming.",
+    "zh": "顶级增伤辅助战甲，4技能幽魂可复制并永久保留增益效果，是刷Boss和强化队友输出的首选。"
+  },
+  "Citrine Prime": {
+    "en": "A crystal support who boosts ally crit, assists with beam damage, and increases health orb drops for team sustain.",
+    "zh": "水晶辅助战甲，能提升队友暴击并通过宝石光束协助输出，同时增加生命球掉落提升团队续航。"
+  },
+  "Dagath Prime": {
+    "en": "A viral damage dealer who curses enemies to build and detonate massive virus stacks. Great melee and weapon crit synergy.",
+    "zh": "病毒系输出战甲，用诅咒技能积累并爆发大量病毒伤害，近战/武器暴击增益让她成为高效杀手。"
+  },
+  "Ember Prime": {
+    "en": "A fire AoE specialist who continuously burns large groups. Best suited for lower-level speed farming missions.",
+    "zh": "范围火焰清场战甲，世界烈火技能可持续灼烧大范围敌人，适合低等级速刷任务。"
+  },
+  "Equinox Prime": {
+    "en": "A versatile dual-form frame. Night form puts enemies to sleep; Day form stores and releases burst damage. Works for solo or team play.",
+    "zh": "万能型地图炮，昼夜形态切换灵活，夜间大范围催眠、白天积累爆发伤害，可挂机刷图或团队辅助。"
+  },
+  "Frost Prime": {
+    "en": "A defensive CC frame. Snow Globe protects objectives; Avalanche freezes every enemy in range. The go-to for defense missions.",
+    "zh": "防御型控场战甲，冰球护盾保护目标点、雪崩全范围冻结敌人，防守任务首选。"
+  },
+  "Gara Prime": {
+    "en": "A glass frame who locks down zones with high sustained damage while heavily boosting ally armor. Both offensive and defensive.",
+    "zh": "玻璃防御输出战甲，玻璃漩涡可锁死区域并持续高额伤害，同时大幅提升队友护甲，攻守兼备。"
+  },
+  "Garuda Prime": {
+    "en": "A blood-fueled damage dealer — the lower her health, the higher her damage. Her blood claw ultimate can wipe entire rooms.",
+    "zh": "以血为武的输出战甲，血量越低伤害越高，4技能召唤血爪地图炮，适合追求极限输出的玩家。"
+  },
+  "Gauss Prime": {
+    "en": "An ultra-fast frame who converts speed into weapon damage and damage reduction. Great for both traversal and combat.",
+    "zh": "极速冲刺多功能战甲，高速移动消耗能量可提升武器伤害并为自身提供强力减伤，跑图与输出两不误。"
+  },
+  "Grendel Prime": {
+    "en": "A glutton who swallows enemies whole to boost his stats, then rolls through the battlefield as a wrecking ball.",
+    "zh": "吞噬型坦克战甲，可将敌人吞入腹中利用其提升属性，滚球形态横扫战场，适合喜欢奇特玩法的玩家。"
+  },
+  "Harrow Prime": {
+    "en": "A zealot support who restores team energy on kills and provides crit chance buffs. Pairs best with high fire-rate weapons.",
+    "zh": "祭司系辅助战甲，通过击杀为全队恢复能量并提供暴击增益，配合高射速武器效果极佳，团队收益很高。"
+  },
+  "Hildryn Prime": {
+    "en": "A shield-only tank who disarms groups of enemies and transfers shields to allies. A unique defensive support frame.",
+    "zh": "盾甲系控场战甲，以护盾代替能量驱动技能，可缴械群敌并群体转移护盾，是独特的防御辅助型战甲。"
+  },
+  "Hydroid Prime": {
+    "en": "A loot-farming specialist. Tentacle Swarm boosts drop rates alongside Nekros, plus solid water-based crowd control.",
+    "zh": "刷资源专用战甲，触手掠夺配合奈克罗斯可大幅提升战利品掉落，同时有不错的水系控场能力。"
+  },
+  "Inaros Prime": {
+    "en": "A nearly unkillable tank with massive HP. Great for beginners and high-level survival missions.",
+    "zh": "极高生命值坦克战甲，几乎无法被击倒，适合新手和高难度生存任务，沙尘技能可控场补血。"
+  },
+  "Ivara Prime": {
+    "en": "The top stealth frame — permanent invisibility while moving and auto-loots nearby pickups. Essential for spy missions.",
+    "zh": "顶级隐身侦察战甲，潜行状态可自动拾取附近资源，间谍任务和猎杀特殊目标的最佳选择。"
+  },
+  "Khora Prime": {
+    "en": "A loot-and-CC hybrid. Her whip pins enemies for Desecrate synergy, and her Kavat Venari provides independent damage.",
+    "zh": "刷资源兼控场战甲，钢鞭钉住敌人配合亵渎可大幅提升掉落，战猫Venari也能独立输出。"
+  },
+  "Lavos Prime": {
+    "en": "An alchemist who uses no energy — abilities run on cooldowns. High armor and full elemental combos shine in long fights.",
+    "zh": "全元素炼金战甲，技能不消耗能量，改以冷却时间驱动，高护甲加全元素组合让他在持久战中表现出色。"
+  },
+  "Limbo Prime": {
+    "en": "The top crowd-control frame for defense and excavation. Enemies in his rift cannot be harmed by or interact with normal attacks.",
+    "zh": "裂缝维度控场专家，将敌人推入裂缝空间使其无法被普通攻击伤害，是防御挖掘等任务的顶级控场战甲。"
+  },
+  "Loki Prime": {
+    "en": "The go-to stealth and utility frame — near-permanent invisibility with bonus stealth damage and a map-wide disarm.",
+    "zh": "顶级隐身utility战甲，隐形近乎无敌且提供偷袭伤害加成，换位开关使战场变数十足，间谍任务神器。"
+  },
+  "Mag Prime": {
+    "en": "A magnetic AoE dealer who shreds shields and pulls enemies into lethal vortexes. Especially strong against shielded enemies.",
+    "zh": "磁力范围输出战甲，磁力护盾爆发和拉力漩涡提供强力清场，对持护盾敌人伤害尤为突出。"
+  },
+  "Mesa Prime": {
+    "en": "The top gunslinger DPS. Peacemaker auto-targets the whole room at blistering fire rate — effective in defense and boss fights alike.",
+    "zh": "顶级枪炮输出战甲，4技能自带辅助瞄准全场扫射，适合各类防守和刷Boss场合，定位清晰强力。"
+  },
+  "Mirage Prime": {
+    "en": "A top weapon amplification platform. Hall of Mirrors clones multiply weapon damage, devastating with shotguns in bright light.",
+    "zh": "顶级武器增益平台，分身幻象叠加武器伤害最高可达数倍，配合散弹武器可造成恐怖范围伤害。"
+  },
+  "Nekros Prime": {
+    "en": "The definitive resource-farming frame. Desecrate forces enemies to drop extra loot, and Shadows of the Dead reanimates fallen foes.",
+    "zh": "刷资源首选战甲，亵渎技能使敌人尸体额外掉落战利品，生存任务的标配辅助甲，实用性极强。"
+  },
+  "Nezha Prime": {
+    "en": "A well-rounded all-rounder — Warding Halo provides damage immunity and CC immunity while Divine Spears control large groups.",
+    "zh": "全能均衡战甲，护环提供免伤、火轮清场控场，生存能力强且攻防兼备，适合各类任务的万金油之选。"
+  },
+  "Nidus Prime": {
+    "en": "An Infested frame that scales exponentially with stacks — nearly unkillable at high stacks and shares buffs with linked teammates.",
+    "zh": "感染者主题叠层战甲，叠加感染层数后输出和韧性大幅提升，4技能与队友连接共享增益，难以被击杀。"
+  },
+  "Nova Prime": {
+    "en": "A time-control support who slows all enemies by 75% or speeds them up, dramatically changing the pace of any mission.",
+    "zh": "时空控制辅助战甲，分子爆破可全图加速（或减速）敌人，是团队提升清图效率的顶级辅助。"
+  },
+  "Nyx Prime": {
+    "en": "A psychic CC frame who turns enemies against each other and absorbs damage. Excels at turning strong enemies into allies.",
+    "zh": "精神控制战甲，可使敌人相互攻击、吸收并反弹伤害，是需要以弱制强场合的控制型专家。"
+  },
+  "Oberon Prime": {
+    "en": "A nature paladin who cleanses status, heals allies, and empowers the ground beneath the squad.",
+    "zh": "自然系辅助战甲，可净化状态、治疗队友并为地面赋予净化效果，为团队提供生存保障。"
+  },
+  "Octavia Prime": {
+    "en": "A music-themed all-rounder who buffs attack and defense for the whole squad, and can turn invisible solo.",
+    "zh": "音乐主题全能战甲，音乐技能为全队提供强力攻击与防御增益，隐身特性使她同时也是出色的单刷战甲。"
+  },
+  "Protea Prime": {
+    "en": "A logistics support who sustains ammo and energy for the team, and rewinds herself to avoid death.",
+    "zh": "后勤补给辅助战甲，可为队友持续提供弹药和能量，4技能时间倒流可原地复活，生存和团队支援价值极高。"
+  },
+  "Qorvex Prime": {
+    "en": "A radiation heavy-armor frame who triggers chain explosions through status. Has the highest base armor in the game.",
+    "zh": "辐射系重甲战甲，以辐射状态感染敌人并引发连锁爆炸清场，拥有游戏最高基础护甲，极为耐打。"
+  },
+  "Revenant Prime": {
+    "en": "An almost unkillable tank-DPS. Mesmer Skin redirects damage and enthralls attackers; Danse Macabre sweeps the entire room.",
+    "zh": "永生之夜战甲，不死之身机制使其几乎无法被击倒，舞影地图炮可全范围清场，是最简单强力的肉盾输出甲。"
+  },
+  "Rhino Prime": {
+    "en": "A beginner-friendly tank and team buffer. Iron Skin absorbs all damage; Roar gives the whole squad a damage boost.",
+    "zh": "新手友好坦克增益战甲，犀牛皮肤提供强力护甲、4技能全场击飞控制，战吼为全队加伤，万金油首选。"
+  },
+  "Saryn Prime": {
+    "en": "The top AoE damage dealer — Spores spread across the entire map and exponentially amplify Miasma damage.",
+    "zh": "顶级范围输出战甲，孢子技能扩散并引爆可全图清场，是大多数生存/屠杀任务的最强地图炮之一。"
+  },
+  "Sevagoth Prime": {
+    "en": "A dual-form ghost frame. His shadow fights independently in melee; soul harvest triggers explosive AoE damage.",
+    "zh": "幽灵双形态输出战甲，可化身幽灵分身独立近战并吸取灵魂爆发范围伤害，是技能型地图炮的代表。"
+  },
+  "Styanax Prime": {
+    "en": "A Spartan warrior who restores team energy and shields with spear throws, and charges into groups to control them.",
+    "zh": "斯巴达战士风格战甲，标枪技能可恢复全队能量、护盾，大招大范围突击控场，团队辅助与输出兼备。"
+  },
+  "Titania Prime": {
+    "en": "A tiny fairy who transforms into Razorwing to become highly mobile and immune to ground hazards.",
+    "zh": "微型仙灵战甲，化为蝴蝶形态后极度灵活并免疫地面危险，擅长猎杀移动目标和特殊奖励Boss。"
+  },
+  "Trinity Prime": {
+    "en": "The definitive healer and energy supplier. Energy Vampire endlessly fuels the squad — core in long defense and survival.",
+    "zh": "顶级治疗辅助战甲，可为全队无限回复生命与能量，是高波防守和长时生存任务的核心辅助战甲。"
+  },
+  "Valkyr Prime": {
+    "en": "A melee berserker who becomes nearly invulnerable in Hysteria. The top pick for melee-focused players.",
+    "zh": "狂怒近战战甲，歇斯底里大招状态下近乎无敌且近战伤害极高，是近战流玩家的顶级选择。"
+  },
+  "Vauban Prime": {
+    "en": "A tactical engineer who pins and suspends large groups of enemies. Ideal for precise defense and excavation missions.",
+    "zh": "工程控场战甲，多种陷阱技能可精确控制大量敌人，适合需要定点防守和精密控场的任务场合。"
+  },
+  "Volt Prime": {
+    "en": "A versatile speed frame — Electric Shield boosts weapon damage and blocks bullets; Speed accelerates the whole squad.",
+    "zh": "全能高速战甲，电盾提升武器伤害兼防弹，疾速冲刺全场加速，既是地图炮也是顶级跑图战甲。"
+  },
+  "Wisp Prime": {
+    "en": "The top support frame — Reservoirs permanently grant health, speed, and shock buffs to every teammate who steps through.",
+    "zh": "顶级辅助战甲，储藏室为全队持久提供生命、速度和电击增益，是团队生存和输出效率的核心支柱。"
+  },
+  "Wukong Prime": {
+    "en": "A versatile beginner-friendly frame. His twin fights independently, and Cloud Walker makes traversal incredibly fast.",
+    "zh": "高自由度万能战甲，分身可独立输出、腾云驾雾跑图极快，适合日常任务和间谍任务，新手友好。"
+  },
+  "Xaku Prime": {
+    "en": "A Void ghost who phases out to avoid damage and steals enemy weapons to use against them. Strong in Void missions.",
+    "zh": "虚空幽灵战甲，技能使自身部分无实体可规避伤害，并剥夺敌方武器反制攻击，适合虚空任务场合。"
+  },
+  "Yareli Prime": {
+    "en": "A water-riding frame who surfs on Merulina for great survivability, with notable secondary weapon crit bonuses.",
+    "zh": "水系机动输出战甲，骑乘Merulina冲浪免疫地面危险，水刃和漩涡提供范围输出，副武器暴击加成突出。"
+  },
+  "Zephyr Prime": {
+    "en": "An aerial frame who is nearly impossible to hit in the air. Tornado clusters enemies for redirected weapon damage.",
+    "zh": "制空型战甲，在空中飞行时极难被敌方子弹命中，龙卷风集敌后可引导武器伤害，适合机动清图。"
+  }
+}
