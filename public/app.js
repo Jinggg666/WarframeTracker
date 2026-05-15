@@ -556,7 +556,7 @@ function renderVanillaWarframes(data, container) {
 }
 
 function renderVanillaWarframeCard(wf) {
-  const name = pick(wf.nameZh, wf.name);
+  const name = wf.name;
   const blueprint = pick(wf.blueprintSourceZh, wf.blueprintSource) || '';
   const components = pick(wf.componentSourceZh, wf.componentSource) || '';
   const notes = pick(wf.notesZh, wf.notes) || '';

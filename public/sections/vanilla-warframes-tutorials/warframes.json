@@ -7,7 +7,7 @@
     {
       "name": "Ash",
       "nameZh": "灰烬",
-      "image": "",
+      "image": "AshIcon272.png",
       "acquireType": "boss",
       "blueprintSource": "Market (35,000 Credits)",
       "blueprintSourceZh": "市场购买（35,000 Credits）",
@@ -19,7 +19,7 @@
     {
       "name": "Atlas",
       "nameZh": "阿特拉斯",
-      "image": "",
+      "image": "AtlasIcon272.png",
       "acquireType": "boss",
       "blueprintSource": "Market (35,000 Credits)",
       "blueprintSourceZh": "市场购买（35,000 Credits）",
@@ -31,7 +31,7 @@
     {
       "name": "Banshee",
       "nameZh": "女妖",
-      "image": "",
+      "image": "BansheeIcon272.png",
       "acquireType": "dojo",
       "blueprintSource": "Tenno Research Lab (Dojo)",
       "blueprintSourceZh": "道场 — 天诺研究室",
@@ -43,7 +43,7 @@
     {
       "name": "Baruuk",
       "nameZh": "巴鲁克",
-      "image": "",
+      "image": "BaruukIcon272.png",
       "acquireType": "other",
       "blueprintSource": "Little Duck (Vox Solaris — rank: Instrument)",
       "blueprintSourceZh": "小鸭（虚空战争独立团 — 段位：工具）",
@@ -55,7 +55,7 @@
     {
       "name": "Caliban",
       "nameZh": "卡里班",
-      "image": "",
+      "image": "CalibanIcon272.png",
       "acquireType": "other",
       "blueprintSource": "Narmer Bounties (Cetus / Orb Vallis)",
       "blueprintSourceZh": "纳尔默悬赏任务（赛图斯 / 轨道峡谷）",
@@ -67,7 +67,7 @@
     {
       "name": "Chroma",
       "nameZh": "克罗玛",
-      "image": "",
+      "image": "ChromaIcon272.png",
       "acquireType": "quest",
       "blueprintSource": "The New Strange (Quest)",
       "blueprintSourceZh": "《全新奇迹》任务奖励",
@@ -79,7 +79,7 @@
     {
       "name": "Citrine",
       "nameZh": "黄晶",
-      "image": "",
+      "image": "CitrineIcon272.png",
       "acquireType": "other",
       "blueprintSource": "Albrecht's Laboratories (Duviri)",
       "blueprintSourceZh": "阿尔布雷希特实验室（杜维里）",
@@ -91,7 +91,7 @@
     {
       "name": "Cyte-09",
       "nameZh": "Cyte-09",
-      "image": "",
+      "image": "Cyte-09Icon272.png",
       "acquireType": "quest",
       "blueprintSource": "The Hex (Quest) or Amir (The Hex syndicate — 50,000 Standing, Rank 4)",
       "blueprintSourceZh": "《六人组》任务奖励，或向艾米尔购买（六人组阵营 — 5万声望，段位4）",
@@ -103,7 +103,7 @@
     {
       "name": "Dagath",
       "nameZh": "达迦斯",
-      "image": "",
+      "image": "DagathIcon272.png",
       "acquireType": "quest",
       "blueprintSource": "Dagath's Hollow (Quest)",
       "blueprintSourceZh": "《达迦斯的空洞》任务奖励",
@@ -115,7 +115,7 @@
     {
       "name": "Dante",
       "nameZh": "Dante",
-      "image": "",
+      "image": "DanteIcon272.png",
       "acquireType": "other",
       "blueprintSource": "Disruption — Armatus, Deimos (Rotation C) or Sanctum Anatomica (Loid — Vessel Capillaries)",
       "blueprintSourceZh": "扰乱任务 — 火卫二·阿尔马图斯（轮换C）或圣域解剖学（洛伊德 — 舰管毛细体兑换）",
@@ -127,7 +127,7 @@
     {
       "name": "Ember",
       "nameZh": "余烬",
-      "image": "",
+      "image": "EmberIcon272.png",
       "acquireType": "boss",
       "blueprintSource": "Market (35,000 Credits)",
       "blueprintSourceZh": "市场购买（35,000 Credits）",
@@ -139,7 +139,7 @@
     {
       "name": "Equinox",
       "nameZh": "昼夜",
-      "image": "",
+      "image": "EquinoxIcon272.png",
       "acquireType": "boss",
       "blueprintSource": "Market (35,000 Credits)",
       "blueprintSourceZh": "市场购买（35,000 Credits）",
@@ -151,7 +151,7 @@
     {
       "name": "Excalibur",
       "nameZh": "王者",
-      "image": "",
+      "image": "ExcaliburIcon272.png",
       "acquireType": "boss",
       "blueprintSource": "Market (35,000 Credits)",
       "blueprintSourceZh": "市场购买（35,000 Credits）",
@@ -163,7 +163,7 @@
     {
       "name": "Excalibur Umbra",
       "nameZh": "王者 · 本影",
-      "image": "",
+      "image": "ExcaliburUmbraIcon272.png",
       "acquireType": "quest",
       "blueprintSource": "The Sacrifice (Quest) — not tradeable",
       "blueprintSourceZh": "《牺牲》任务奖励 — 不可交易",
@@ -175,7 +175,7 @@
     {
       "name": "Frost",
       "nameZh": "霜冻",
-      "image": "",
+      "image": "FrostIcon272.png",
       "acquireType": "boss",
       "blueprintSource": "Market (35,000 Credits)",
       "blueprintSourceZh": "市场购买（35,000 Credits）",
@@ -187,7 +187,7 @@
     {
       "name": "Gara",
       "nameZh": "嘉拉",
-      "image": "",
+      "image": "GaraIcon272.png",
       "acquireType": "other",
       "blueprintSource": "Plains of Eidolon Bounties (Tier 3–5)",
       "blueprintSourceZh": "奥斯特隆赏金任务（3~5级）",
@@ -199,7 +199,7 @@
     {
       "name": "Garuda",
       "nameZh": "迦楼罗",
-      "image": "",
+      "image": "GarudaIcon272.png",
       "acquireType": "other",
       "blueprintSource": "Vox Solaris (Old Mate rank)",
       "blueprintSourceZh": "虚空战争独立团（段位：旧朋友）",
@@ -211,7 +211,7 @@
     {
       "name": "Gauss",
       "nameZh": "高斯",
-      "image": "",
+      "image": "GaussIcon272.png",
       "acquireType": "boss",
       "blueprintSource": "Market (35,000 Credits)",
       "blueprintSourceZh": "市场购买（35,000 Credits）",
@@ -223,7 +223,7 @@
     {
       "name": "Grendel",
       "nameZh": "格伦德尔",
-      "image": "",
+      "image": "GrendelIcon272.png",
       "acquireType": "other",
       "blueprintSource": "Orokin Moon — special locked nodes (require Medallions)",
       "blueprintSourceZh": "月球（夜波/仲裁奖励勋章开启锁定节点）",
@@ -235,7 +235,7 @@
     {
       "name": "Gyre",
       "nameZh": "吉尔",
-      "image": "",
+      "image": "GyreIcon272.png",
       "acquireType": "other",
       "blueprintSource": "Archimedean Yonta (Zariman — rank rewards)",
       "blueprintSourceZh": "阿基米德·扬塔（扎里曼 — 段位奖励）",
@@ -247,7 +247,7 @@
     {
       "name": "Harrow",
       "nameZh": "哈罗",
-      "image": "",
+      "image": "HarrowIcon272.png",
       "acquireType": "quest",
       "blueprintSource": "Chains of Harrow (Quest)",
       "blueprintSourceZh": "《哈罗的锁链》任务奖励",
@@ -259,7 +259,7 @@
     {
       "name": "Hildryn",
       "nameZh": "希尔德林",
-      "image": "",
+      "image": "HildrynIcon272.png",
       "acquireType": "other",
       "blueprintSource": "Little Duck (Vox Solaris — rank: Instrument)",
       "blueprintSourceZh": "小鸭（虚空战争独立团 — 段位：工具）",
@@ -271,7 +271,7 @@
     {
       "name": "Hydroid",
       "nameZh": "海德",
-      "image": "",
+      "image": "HydroidIcon272.png",
       "acquireType": "boss",
       "blueprintSource": "Market (35,000 Credits)",
       "blueprintSourceZh": "市场购买（35,000 Credits）",
@@ -283,7 +283,7 @@
     {
       "name": "Inaros",
       "nameZh": "伊纳洛斯",
-      "image": "",
+      "image": "InarosIcon272.png",
       "acquireType": "quest",
       "blueprintSource": "Sands of Inaros (Quest) — buy the Scarab Pact from Baro Ki'Teer",
       "blueprintSourceZh": "《伊纳洛斯的沙漠》任务 — 向巴罗·奇提尔购买圣甲虫契约",
@@ -295,7 +295,7 @@
     {
       "name": "Ivara",
       "nameZh": "伊瓦拉",
-      "image": "",
+      "image": "IvaraIcon272.png",
       "acquireType": "other",
       "blueprintSource": "Tier 3 Spy mission rewards",
       "blueprintSourceZh": "3级间谍任务奖励",
@@ -307,7 +307,7 @@
     {
       "name": "Jade",
       "nameZh": "Jade",
-      "image": "",
+      "image": "JadeIcon272.png",
       "acquireType": "quest",
       "blueprintSource": "Jade Shadows (Quest)",
       "blueprintSourceZh": "《翡翠阴影》任务奖励",
@@ -319,7 +319,7 @@
     {
       "name": "Khora",
       "nameZh": "寇拉",
-      "image": "",
+      "image": "KhoraIcon272.png",
       "acquireType": "other",
       "blueprintSource": "Elite Sanctuary Onslaught (Rotation A/B/C)",
       "blueprintSourceZh": "精英圣域冲锋（轮换A/B/C）",
@@ -331,7 +331,7 @@
     {
       "name": "Koumei",
       "nameZh": "Koumei",
-      "image": "",
+      "image": "KoumeiIcon272.png",
       "acquireType": "other",
       "blueprintSource": "Shrine Defense — Saya's Visions, Earth (Rotation A) or Koumei's Shrine (Cetus — Fate Pearls)",
       "blueprintSourceZh": "圣殿防御 — 地球·萨亚的幻象（轮换A）或皎明圣殿（赛图斯 — 命运珍珠兑换）",
@@ -343,7 +343,7 @@
     {
       "name": "Kullervo",
       "nameZh": "库勒沃",
-      "image": "",
+      "image": "KullervoIcon272.png",
       "acquireType": "other",
       "blueprintSource": "Duviri — Kullervo's Hold",
       "blueprintSourceZh": "杜维里 — 库勒沃的牢笼",
@@ -355,7 +355,7 @@
     {
       "name": "Lavos",
       "nameZh": "拉沃斯",
-      "image": "",
+      "image": "LavosIcon272.png",
       "acquireType": "other",
       "blueprintSource": "Father (Deimos — Necraloid Syndicate rank rewards)",
       "blueprintSourceZh": "父亲（火卫二 — 坏死机械独立团段位奖励）",
@@ -367,7 +367,7 @@
     {
       "name": "Limbo",
       "nameZh": "灵薄",
-      "image": "",
+      "image": "LimboIcon272.png",
       "acquireType": "quest",
       "blueprintSource": "The Limbo Theorem (Quest)",
       "blueprintSourceZh": "《灵薄定理》任务",
@@ -379,7 +379,7 @@
     {
       "name": "Loki",
       "nameZh": "洛基",
-      "image": "",
+      "image": "LokiIcon272.png",
       "acquireType": "boss",
       "blueprintSource": "Market (35,000 Credits)",
       "blueprintSourceZh": "市场购买（35,000 Credits）",
@@ -391,7 +391,7 @@
     {
       "name": "Mag",
       "nameZh": "磁爆",
-      "image": "",
+      "image": "MagIcon272.png",
       "acquireType": "boss",
       "blueprintSource": "Market (35,000 Credits) or Tutorial reward",
       "blueprintSourceZh": "市场购买（35,000 Credits）或新手教程奖励",
@@ -403,7 +403,7 @@
     {
       "name": "Mesa",
       "nameZh": "梅萨",
-      "image": "",
+      "image": "MesaIcon272.png",
       "acquireType": "boss",
       "blueprintSource": "Market (35,000 Credits)",
       "blueprintSourceZh": "市场购买（35,000 Credits）",
@@ -415,7 +415,7 @@
     {
       "name": "Mirage",
       "nameZh": "幻影",
-      "image": "",
+      "image": "MirageIcon272.png",
       "acquireType": "quest",
       "blueprintSource": "The Hidden Messages (Quest)",
       "blueprintSourceZh": "《隐藏的信息》任务",
@@ -427,7 +427,7 @@
     {
       "name": "Nekros",
       "nameZh": "亡灵",
-      "image": "",
+      "image": "NekrosIcon272.png",
       "acquireType": "boss",
       "blueprintSource": "Market (35,000 Credits)",
       "blueprintSourceZh": "市场购买（35,000 Credits）",
@@ -439,7 +439,7 @@
     {
       "name": "Nezha",
       "nameZh": "哪吒",
-      "image": "",
+      "image": "NezhaIcon272.png",
       "acquireType": "dojo",
       "blueprintSource": "Tenno Research Lab (Dojo)",
       "blueprintSourceZh": "道场 — 天诺研究室",
@@ -451,7 +451,7 @@
     {
       "name": "Nidus",
       "nameZh": "尼都斯",
-      "image": "",
+      "image": "NidusIcon272.png",
       "acquireType": "quest",
       "blueprintSource": "The Glast Gambit (Quest)",
       "blueprintSourceZh": "《格拉斯特的赌注》任务",
@@ -463,7 +463,7 @@
     {
       "name": "Nova",
       "nameZh": "新星",
-      "image": "",
+      "image": "NovaIcon272.png",
       "acquireType": "boss",
       "blueprintSource": "Market (35,000 Credits)",
       "blueprintSourceZh": "市场购买（35,000 Credits）",
@@ -475,7 +475,7 @@
     {
       "name": "Nyx",
       "nameZh": "倪克斯",
-      "image": "",
+      "image": "NyxIcon272.png",
       "acquireType": "boss",
       "blueprintSource": "Market (35,000 Credits)",
       "blueprintSourceZh": "市场购买（35,000 Credits）",
@@ -487,7 +487,7 @@
     {
       "name": "Oberon",
       "nameZh": "奥伯隆",
-      "image": "",
+      "image": "OberonIcon272.png",
       "acquireType": "other",
       "blueprintSource": "Market (35,000 Credits)",
       "blueprintSourceZh": "市场购买（35,000 Credits）",
@@ -499,7 +499,7 @@
     {
       "name": "Octavia",
       "nameZh": "奥克塔薇雅",
-      "image": "",
+      "image": "OctaviaIcon272.png",
       "acquireType": "quest",
       "blueprintSource": "Octavia's Anthem (Quest)",
       "blueprintSourceZh": "《奥克塔薇雅的赞歌》任务",
@@ -511,7 +511,7 @@
     {
       "name": "Protea",
       "nameZh": "普罗忒亚",
-      "image": "",
+      "image": "ProteaIcon272.png",
       "acquireType": "quest",
       "blueprintSource": "The Deadlock Protocol (Quest)",
       "blueprintSourceZh": "《僵局协议》任务奖励",
@@ -523,7 +523,7 @@
     {
       "name": "Qorvex",
       "nameZh": "科维克斯",
-      "image": "",
+      "image": "QorvexIcon272.png",
       "acquireType": "other",
       "blueprintSource": "Duviri — The Circuit or Archimedean Yonta rewards",
       "blueprintSourceZh": "杜维里 — 电路或阿基米德·扬塔奖励",
@@ -535,7 +535,7 @@
     {
       "name": "Revenant",
       "nameZh": "亡魂",
-      "image": "",
+      "image": "RevenantIcon272.png",
       "acquireType": "other",
       "blueprintSource": "Plains of Eidolon Bounties (Tier 3–5) or Quills (rank: Adherent)",
       "blueprintSourceZh": "奥斯特隆赏金任务（3~5级）或鬼魂（段位：信徒）",
@@ -547,7 +547,7 @@
     {
       "name": "Rhino",
       "nameZh": "莱诺",
-      "image": "",
+      "image": "RhinoIcon272.png",
       "acquireType": "boss",
       "blueprintSource": "Market (35,000 Credits)",
       "blueprintSourceZh": "市场购买（35,000 Credits）",
@@ -559,7 +559,7 @@
     {
       "name": "Saryn",
       "nameZh": "莎琳",
-      "image": "",
+      "image": "SarynIcon272.png",
       "acquireType": "boss",
       "blueprintSource": "Market (35,000 Credits)",
       "blueprintSourceZh": "市场购买（35,000 Credits）",
@@ -571,7 +571,7 @@
     {
       "name": "Sevagoth",
       "nameZh": "赛瓦格斯",
-      "image": "",
+      "image": "SevagothIcon272.png",
       "acquireType": "other",
       "blueprintSource": "Void Storm missions (Railjack)",
       "blueprintSourceZh": "虚空风暴任务（轨道舰）",
@@ -583,7 +583,7 @@
     {
       "name": "Styanax",
       "nameZh": "斯坦纳克斯",
-      "image": "",
+      "image": "StyanaxIcon272.png",
       "acquireType": "other",
       "blueprintSource": "Archimedean Yonta (Zariman — rank: Shaman)",
       "blueprintSourceZh": "阿基米德·扬塔（扎里曼 — 段位：萨满）",
@@ -595,7 +595,7 @@
     {
       "name": "Titania",
       "nameZh": "提塔尼亚",
-      "image": "",
+      "image": "TitaniaIcon272.png",
       "acquireType": "quest",
       "blueprintSource": "The Silver Grove (Quest)",
       "blueprintSourceZh": "《银树林》任务奖励",
@@ -607,7 +607,7 @@
     {
       "name": "Trinity",
       "nameZh": "三位一体",
-      "image": "",
+      "image": "TrinityIcon272.png",
       "acquireType": "boss",
       "blueprintSource": "Market (35,000 Credits)",
       "blueprintSourceZh": "市场购买（35,000 Credits）",
@@ -619,7 +619,7 @@
     {
       "name": "Valkyr",
       "nameZh": "瓦尔基里",
-      "image": "",
+      "image": "ValkyrIcon272.png",
       "acquireType": "boss",
       "blueprintSource": "Market (35,000 Credits)",
       "blueprintSourceZh": "市场购买（35,000 Credits）",
@@ -631,7 +631,7 @@
     {
       "name": "Vauban",
       "nameZh": "沃邦",
-      "image": "",
+      "image": "VaubanIcon272.png",
       "acquireType": "other",
       "blueprintSource": "Nightwave rewards (rotating) or Legacy Alert missions",
       "blueprintSourceZh": "夜波奖励（轮换）或警报任务",
@@ -643,7 +643,7 @@
     {
       "name": "Volt",
       "nameZh": "闪电",
-      "image": "",
+      "image": "VoltIcon272.png",
       "acquireType": "dojo",
       "blueprintSource": "Tenno Research Lab (Dojo) or Quills (Rank: Adherent)",
       "blueprintSourceZh": "道场 — 天诺研究室 或 鬼魂（段位：信徒）",
@@ -655,7 +655,7 @@
     {
       "name": "Voruna",
       "nameZh": "伏鲁纳",
-      "image": "",
+      "image": "VorunaIcon272.png",
       "acquireType": "other",
       "blueprintSource": "Archimedean Yonta (Zariman — rank rewards)",
       "blueprintSourceZh": "阿基米德·扬塔（扎里曼 — 段位奖励）",
@@ -667,7 +667,7 @@
     {
       "name": "Wisp",
       "nameZh": "鬼火",
-      "image": "",
+      "image": "WispIcon272.png",
       "acquireType": "boss",
       "blueprintSource": "Market (35,000 Credits)",
       "blueprintSourceZh": "市场购买（35,000 Credits）",
@@ -679,7 +679,7 @@
     {
       "name": "Wukong",
       "nameZh": "悟空",
-      "image": "",
+      "image": "WukongIcon272.png",
       "acquireType": "dojo",
       "blueprintSource": "Tenno Research Lab (Dojo)",
       "blueprintSourceZh": "道场 — 天诺研究室",
@@ -691,7 +691,7 @@
     {
       "name": "Xaku",
       "nameZh": "扎库",
-      "image": "",
+      "image": "XakuIcon272.png",
       "acquireType": "other",
       "blueprintSource": "Entrati Syndicate (Deimos — rank rewards)",
       "blueprintSourceZh": "恩特拉提派系（火卫二 — 段位奖励）",
@@ -703,7 +703,7 @@
     {
       "name": "Yareli",
       "nameZh": "亚雷莉",
-      "image": "",
+      "image": "YareliIcon272.png",
       "acquireType": "quest",
       "blueprintSource": "In a Crystal Cave (Quest) — complete K-Drive challenges",
       "blueprintSourceZh": "《水晶洞穴中》任务 — 完成K-Drive挑战",
@@ -715,7 +715,7 @@
     {
       "name": "Zephyr",
       "nameZh": "西风",
-      "image": "",
+      "image": "ZephyrIcon272.png",
       "acquireType": "dojo",
       "blueprintSource": "Tenno Research Lab (Dojo)",
       "blueprintSourceZh": "道场 — 天诺研究室",
